@@ -1,0 +1,8 @@
+{
+  "auths": {
+    "https://index.docker.io/v1/": {
+      "auth": "BASE64_VALUE_OF_USERNAME:PASSWORD",
+      "email": "foo@gmail.com"
+    }
+  }
+}
